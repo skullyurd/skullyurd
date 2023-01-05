@@ -3,9 +3,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ### :fire: My Stats :
+[
 
-
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=skullyurd))
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=skullyurd))](https://github-readme-streak-stats.herokuapp.com/?user=skullyurd)
 
 
 
