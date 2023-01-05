@@ -5,7 +5,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=skullyurd&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=skullyurd" alt="skullyurd" />  <img src="https://img.shields.io/github/last-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=skullyurd" alt="skullyurd" />
+
 <p align="center"><img src="https://sjb-github-readme-stats.vercel.app/api?username=skullyurd&show_icons=true&count_private=true" alt="basnetsoyuj" /></p>
 
 
